@@ -8,7 +8,7 @@
 ## Objetivos
 - ¿Cuál es el objetivo principal de este proyecto? ¿Qué queremos lograr al predecir la supervivencia en el escenario del Titanic?
 
-El objetivo principal de este proyecto es hacer un modelo de predicción lo más eficiente posible con base en los datos proporcionados. 
+El objetivo principal de este proyecto es hacer un modelo de predicción lo más eficiente posible con base en los datos proporcionados. Las clases con las que vamos a trabajar son: pasajeros que sobrevivieron y pasajeros que fallecieron con base en sus características: edad, clase socio-económica, cabina, cantidad de hermanos, tipo de boletos. 
 
 - ¿Cómo mediremos el éxito de nuestras predicciones?
 
