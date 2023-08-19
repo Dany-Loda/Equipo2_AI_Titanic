@@ -12,6 +12,6 @@
 
 ## Propósito
 - ¿Por qué es relevante esta predicción? ¿A quién beneficiará y cómo?
-
+Crear un modelo de predicción tiene una variedad de beneficios y fuentes de aprendizaje muy útiles. 
 
 
