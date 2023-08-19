@@ -16,6 +16,8 @@ El éxito de nuestras predicciones se van a medir con el accuracy de nuestro mod
 
 - ¿Qué métricas o indicadores de rendimiento utilizaremos para evaluar el modelo?
 
+Vamos a estar utilizando las siguientes métricas para evaluar y mejorar constantemente el modelo: la precisión, el Recall y matrices de confusión. Estas métricas nos van a proporcionar información útil de como está operando el modelo y cuales son las mejoras que le podemos hacer. 
+
 ## Propósito
 - ¿Por qué es relevante esta predicción? ¿A quién beneficiará y cómo?
   
