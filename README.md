@@ -1,6 +1,6 @@
 # Equipo2_AI_Titanic
 
-En resumen, en este proyecto se exploró la problemática de predecir la supervivencia de los pasajeros a bordo del Titanic utilizando técnicas avanzadas de modelado predictivo. Se analizaron diferentes modelos de aprendizaje automático, como Support Vector Machine (SVM), Random Forest y K-Nearest Neighbors (KNN), para abordar este problema de clasificación binaria.
+En resumen, en este proyecto se exploró la problemática de predecir la supervivencia de los pasajeros a bordo del Titanic utilizando técnicas avanzadas de modelado predictivo. El conjunto de datos utilizado contiene información sobre pasajeros del famoso barco Titanic, incluyendo detalles como edad, género, clase de boleto y si sobrevivieron o no al naufragio. Se analizaron diferentes modelos de aprendizaje automático, como Support Vector Machine (SVM), Random Forest y K-Nearest Neighbors (KNN), para abordar este problema de clasificación binaria.
 
 Se realizó un preprocesamiento de datos que incluyó la limpieza de datos, la selección de características relevantes y la creación de variables dummy para las variables categóricas. Luego, se entrenaron y evaluaron los modelos utilizando métricas como precisión, recall y F1-score.
 
