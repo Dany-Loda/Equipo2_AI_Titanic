@@ -6,6 +6,6 @@ Se realizó un preprocesamiento de datos que incluyó la limpieza de datos, la s
 
 El modelo Random Forest mostró el mejor rendimiento con una precisión de aproximadamente 0.7887 en la competencia de Kaggle. Se realizaron ajustes de hiperparámetros utilizando GridSearchCV, lo que permitió mejorar aún más el rendimiento del modelo.
 
-En última instancia, se seleccionó el modelo Random Forest ajustado como el mejor modelo para predecir la supervivencia de los pasajeros del Titanic. Sin embargo, siempre existe margen para mejorar aún más el rendimiento del modelo y explorar nuevas técnicas y características para lograr predicciones más precisas.
+En última instancia, se seleccionó el modelo Random Forest ajustado como el mejor modelo para predecir la supervivencia de los pasajeros del Titanic. Este modelo de aprendizaje automático construye múltiples árboles de decisión y promedia sus predicciones para mejorar la precisión en la clasificación y predicción de eventos, como la supervivencia en el caso del Titanic. Sin embargo, siempre existe margen para mejorar aún más el rendimiento del modelo y explorar nuevas técnicas y características para lograr predicciones más precisas.
 
 ## Descripción de archivos
