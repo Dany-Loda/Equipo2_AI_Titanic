@@ -15,7 +15,7 @@ Iniciamos el proyecto construyendo un modelo base de Random Forest sin ninguna o
 - F1 Score: 0.7832
 
 En Kaggle obtuvimos este resultado:
-![Random Forest Base](imagenes/RandomForestBase.png)
+![Random Forest Base](imagenes/RandomForestBase.PNG)
 
 ### Random Forest con Grid Search
 Después de construir el modelo base, realizamos una búsqueda de hiperparámetros usando Grid Search. Grid Search es una técnica que permite explorar múltiples combinaciones de hiperparámetros para encontrar la combinación que produce el mejor rendimiento del modelo. Los hiperparámetros optimizados incluyeron el número de árboles en el bosque (`n_estimators`), la profundidad máxima de los árboles (`max_depth`), el número mínimo de muestras necesarias para dividir un nodo interno (`min_samples_split`), y el número mínimo de muestras necesarias para estar en un nodo hoja (`min_samples_leaf`). Los resultados obtenidos con esta optimización fueron:
@@ -27,7 +27,7 @@ Después de construir el modelo base, realizamos una búsqueda de hiperparámetr
 
 En Kaggle obtuvimos este resultado:
 
-![Random Forest Grid](imagenes/RandomForestGrid.png)
+![Random Forest Grid](imagenes/RandomForestGrid.PNG)
 
 ### Random Forest Optimizado
 Finalmente, realizamos ingeniería de características, añadiendo nuevas variables como el título, el tamaño de la familia, si el pasajero era niño, y la tarifa por persona. Estas características adicionales se crearon a partir de las características existentes en el conjunto de datos. Por ejemplo, el título se extrajo del nombre, el tamaño de la familia se calculó sumando el número de hermanos/cónyuges y padres/hijos, y la tarifa por persona se calculó dividiendo la tarifa por el tamaño de la familia. También ajustamos manualmente los hiperparámetros, obteniendo los siguientes resultados:
@@ -39,7 +39,7 @@ Finalmente, realizamos ingeniería de características, añadiendo nuevas variab
 
 En Kaggle obtuvimos este resultado:
 
-![Random Forest Optimizado](imagenes/RandomForestOptimizado.png)
+![Random Forest Optimizado](imagenes/RandomForestOptimizado.PNG)
 
 ## Correcciones Realizadas
 
